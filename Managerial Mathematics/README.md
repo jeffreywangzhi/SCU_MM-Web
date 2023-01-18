@@ -52,7 +52,7 @@ $ sam deploy --guided
 ```
 ```sh
 $ Configuring SAM deploy
-Stack Name [sam-app]: SAM-aemass-qe-dev
+Stack Name [sam-app]: 
 AWS Region [us-east-1]: us-east-1
 Confirm changes before deploy [y/N]: y
 Allow SAM CLI IAM role creation [Y/n]: Y
